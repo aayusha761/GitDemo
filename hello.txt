@@ -1,5 +1,4 @@
 Hello
-Hi
 Namaste
 Grreet
 Hola
